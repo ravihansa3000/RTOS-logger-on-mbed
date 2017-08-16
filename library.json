@@ -1,0 +1,21 @@
+{
+  "name": "RTOS-logger-on-mbed",
+  "keywords": "logging, mbed",
+  "description": "RTOS logger library for mbed platform",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/ravihansa3000/RTOS-logger-on-mbed"
+  },
+  "authors":
+  [
+    {
+      "name": "Akila Perera",
+      "email": "ravihansa3000@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "version": "0.0.1",
+  "frameworks": "mbed",
+  "platforms": "*"
+}
